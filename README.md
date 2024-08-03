@@ -1,4 +1,4 @@
-#Project Introduction
+##Project Introduction
 
 
 Income inequality has been a growing concern, impacting various aspects of society. In this project, we aim to analyze and predict whether an individual’s annual income exceeds $50,000 based on a range of attributes. Using data extracted from the Census Bureau database by Barry Becker and Ronny Kohavi, we will leverage machine learning algorithms to identify key factors influencing income levels, such as age, education, occupation, and capital gain or loss.
